@@ -1,0 +1,33 @@
+
+
+.container-driver{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(48, 43, 206, 0.695);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.driver-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.driver-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    margin-left:20px;
+}
+
+
+.driver-name{
+    font-size: 24px;
+}
+

@@ -1,0 +1,33 @@
+
+
+
+.container-cards{
+    display: inline-block;
+
+}
+
+.one-card{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: flex-start;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.creditCardNumber{
+    font-size: 24px;
+}
+
+.logo{
+    display: flex;
+    justify-items:center;
+    width: 100%;
+}
+
+.expire{
+    display: flex;
+    justify-items:stretch;
+    align-items: center; 
+}
