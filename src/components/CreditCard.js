@@ -3,7 +3,7 @@ import '../CreditCard.css';
 
 function CreditCard(props) {
 
-console.log(props)
+
 
 
 

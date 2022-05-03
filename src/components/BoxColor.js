@@ -3,7 +3,7 @@
 
 function BoxColor(props) {
 
-    console.log(props)
+   
 
     const style = { backgroundColor: `rgb(${props.r}, ${props.g}, ${props.b})`,
                     height: `20vh`,

@@ -1,7 +1,7 @@
 import '../DriverCard.css';
 
 function DriverCard(props) {
-   console.log(props)
+  
 
    var star = '';
    var rating = Math.round(props.rating)
